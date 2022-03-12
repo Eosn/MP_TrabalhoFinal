@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 
 '''
-Éllen Oliveira Silva Neves (20202BSI0071)
+Éllen Neves
 Trabalho solicitado pelo professor de Metodologia da Pesquisa, Maxwell Monteiro
 '''
 
